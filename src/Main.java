@@ -20,7 +20,7 @@ public class Main {
         int thirdNameLength = names.get(2).length();
         int secondNameLength = moreNames[1].length();
         int lengths = namesAmt + moreNamesAmt + thirdNameLength + secondNameLength;
-        System.out.println(lengths); // should print 18
+        System.out.println(lengths); //
 
     }
 }
